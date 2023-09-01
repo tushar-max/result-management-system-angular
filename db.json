@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "rollNo": 8,
+      "name": "Tushar Awasthi",
+      "dob": "2003-03-03",
+      "score": 100,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "rollNo": 111,
+      "name": "Tushar",
+      "dob": "2003-01-01",
+      "score": 100
+    },
+    {
+      "id": 11,
+      "rollNo": 1,
+      "name": "Prateek Singh",
+      "dob": "2004-02-03",
+      "score": 80
+    },
+    {
+      "id": 12,
+      "rollNo": 12,
+      "name": "Shivam",
+      "dob": "0001-01-01",
+      "score": 33
+    },
+    {
+      "id": 13,
+      "rollNo": 58,
+      "name": "Tushar",
+      "dob": "2023-06-12",
+      "score": 92
+    },
+    {
+      "rollNo": 56,
+      "name": "Hritik",
+      "dob": "2000-02-03",
+      "score": 90,
+      "id": 14
+    }
+  ],
+  "register": [
+    {
+      "email": "tushar.awasthi@nagarro.com",
+      "password": "Tushar@123",
+      "id": 1
+    },
+    {
+      "email": "testing@123.com",
+      "password": "Tushar@123",
+      "id": 2
+    },
+    {
+      "email": "teacher@school.com",
+      "password": "Tushar@123",
+      "id": 3
+    },
+    {
+      "email": "123@abc.com",
+      "password": "Tushar@123",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,32 @@
+<app-loggedin-navbar></app-loggedin-navbar>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="text-center">
+          <h1>Hi {{resultData.name}}</h1>
+          <a>Here is your result</a>
+          <hr>
+          <table class="resultTable">
+            <tr>
+              <td>Roll No.</td>
+              <td>{{resultData.rollNo}}</td>
+            </tr>
+            <tr>
+              <td>Name</td>
+              <td>{{resultData.name}}</td>
+            </tr>
+            <tr>
+              <td>DOB</td>
+              <td>{{resultData.dob}}</td>
+            </tr>
+            <tr>
+              <td>Score</td>
+              <td>{{resultData.score}}</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

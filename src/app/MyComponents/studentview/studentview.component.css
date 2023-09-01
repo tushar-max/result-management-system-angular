@@ -1,0 +1,31 @@
+.align {
+    margin-top: 1%;
+    margin-left: 85%;
+}
+
+.card {
+    margin-top: 5%;
+    border: 1px solid blue;
+    width: 48%;
+    padding: 5%;
+    position: absolute;
+    top: 6%;
+    left: 26%;
+    background-color: beige;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+} 
+
+tr {
+    border-bottom: 1px solid #ddd;
+}
+
+.resultTable {
+    width: 70%;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}

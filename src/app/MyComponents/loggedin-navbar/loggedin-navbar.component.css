@@ -1,0 +1,23 @@
+
+.alignlogout{
+    margin-top: 2%;
+    margin-left: 30%;
+    position: absolute;
+
+}
+.header {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: #d6e7d4;
+    color: black;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-bottom-color: #46d7ac;
+    border-top-color: #46d7ac;
+    height: fit-content;
+    padding-top: 1%;
+}
